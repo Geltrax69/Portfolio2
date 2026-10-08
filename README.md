@@ -13,6 +13,15 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshot-ui.png" alt="Portfolio2 UI" width="100%" />
+  <br />
+  <em>Portfolio site.</em>
+</p>
+
+
 ## What it is
 
 A personal developer portfolio for Lalit Singh — "Real-time systems, Flutter apps, and things that actually ship." A single-page site with a film-grain texture, a one-time guided-tour cursor sweep, a live scroll guide, an "open to opportunities" announcement bar, and scroll-driven section reveals. Styling uses Bricolage Grotesque, Inter Tight, JetBrains Mono, and Caveat typefaces. A tiny Python dev server disables caching so CSS/JS edits show on every reload.
